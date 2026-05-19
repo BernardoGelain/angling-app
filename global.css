@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Variables for React Native - NativeWind v2 */
+:root {
+  --background: #f8faf9;
+  --foreground: #1a3329;
+  --card: #ffffff;
+  --card-foreground: #1a3329;
+  --primary: #2d6a4f;
+  --primary-foreground: #ffffff;
+  --secondary: #52b788;
+  --secondary-foreground: #ffffff;
+  --muted: #e8f3ed;
+  --muted-foreground: #5a7a6b;
+  --accent: #74c69d;
+  --accent-foreground: #1a3329;
+  --destructive: #d4183d;
+  --destructive-foreground: #ffffff;
+  --border: rgba(45, 106, 79, 0.15);
+  --input: transparent;
+  --input-background: #f3f7f5;
+  --ring: #52b788;
+  --radius: 12px;
+  
+  /* Fishing app specific colors */
+  --water-blue: #219ebc;
+  --water-light: #8ecae6;
+  --lake-dark: #023047;
+  --trophy-gold: #ffb703;
+  --xp-green: #52b788;
+}
